@@ -2,6 +2,6 @@
 
 int main()
 {
-    af_packet_sock_sample();
+    af_packet_sock_sample("ens33.100");
     return 0;
 }

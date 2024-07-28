@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "if_packet.h": "c",
+        "ethernet.h": "c",
+        "error.h": "c",
+        "unistd.h": "c"
+    }
+}
